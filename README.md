@@ -1,4 +1,4 @@
-# Welcome to the Advanced Programing course (INT2215).
+# Welcome to the Advanced Programing course (INT2215). ABCD
 ## Course objective
 This module helps students build a programming mindset, how to build a program from an initial idea to a complete program, as well as introduce some advanced programming techniques. 
 Students can build a complete program that interacts with the user to perform a specific task through programming techniques in high-level programming languages, e.g., C++. 
